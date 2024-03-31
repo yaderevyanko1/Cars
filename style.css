@@ -1,0 +1,55 @@
+body {
+    background-color:lightblue; 
+    font-family:sans-serif;
+}
+
+header {
+    background-color:LavenderBlush;
+   }
+
+   h1 {
+       text-align:center;
+        }
+
+        h2 {
+       text-align:center;
+       font-size:50px;
+        }
+
+  h4 {
+       text-align:center;
+        }   
+
+        a   {
+          font-size:25px;
+          color:DarkRed;
+          border:2px solid darkred ; 
+          background-color: yellow; 
+            } 
+
+            p {
+font-size:20px;
+text-align:left;
+color: brown;
+                } 
+                
+table {
+    border:2px solid green;
+    text-align:center;
+    background-color:yellow;
+    font-size:20px;
+    }
+
+    td {
+        border:1px solid green;
+      }  
+
+      footer {
+        background-color:white;  
+          } 
+
+          h5 {
+            font-size:20px;
+            color:Brown ;
+            
+            }
